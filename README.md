@@ -1,6 +1,6 @@
 ## 🪿 Website Uptime Monitor
 
-A serverless website monitoring application built with the HONC stack (Hono, OpenTelemetry, and Cloudflare). This application allows you to monitor the uptime of websites by performing periodic health checks and storing the results in a D1 database.
+A serverless website monitoring application built with the HONC stack (Hono, OpenTelemetry, and Cloudflare). This application allows you to monitor the uptime of websites by performing periodic health checks and storing the results in a D1 database
 
 ### Features
 
